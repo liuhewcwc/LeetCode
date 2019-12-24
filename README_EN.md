@@ -1,4 +1,19 @@
-# LeetCode
+[中文](README_CN.md) | [English](README_EN.md)
+
+<div align="center">
+  <a href="">
+    <img src="logo.png"  width="80px" height="80px">
+  </a>
+  <h1 align="center">
+    LeetCode
+  </h1>
+</div>
+
+
+<div align="center">
+  <img src="ss.png" width="600px" height="400px">
+
+</div>
 
 ### Intro.
 
